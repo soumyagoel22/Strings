@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public String longestCommonPrefix(ArrayList<String> A) {
     //   int i,n,minlen;
