@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public String addBinary(String A, String B) {
         // StringBuilder str=new StringBuilder();
