@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public String convert(String A, int B) {
         if (B<=1) return A;
