@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public ArrayList<String> fullJustify(ArrayList<String> A, int B) {
         ArrayList<String> result = new ArrayList<>();
